@@ -27,10 +27,11 @@ The most ambitious goal of this project was to restore the absorption properties
 Photo-oxidation destroys these conjugated polymers. However, we still have lots of different monomers or oligomeric chromophores in the film - if we again heat the film, these undergo exchange with the photo-oxidized chromophores! This will increase the absorption as long as we have monomers in the film. {% cite ahner_self-healing_2017 %} While this exchange worked really well, we failed to incorporate the chromophores in an actual useful device, because conjugated imines are notorious for being extremely good light absorbers, but extremely bad ad doing anything with this light. I planned to write a review article *Why conjugated imines suck and cannot get anything done*, but then started my postdoc and this article is still in writing hell. It is an interesting story, going back to early experiments by Ciamician and the early photochemistry community, but maybe that is for another day...
 
 ## References
-
-1. {% reference ahner_self-healing_2015 %}
-2. {% reference ahner_thermally_2016 %}
-3. {% reference ahner_directed_2017 %}
-4. {% reference ahner_self-healing_2017 %}
-5. {% reference micheel_photophysics_2019 %}
-6. {% reference micheel_photophysical_2019 %}
+<div class="publications">
+  {% bibliography -f papers -q @*[key=ahner_self-healing_2015]* %}
+  {% bibliography -f papers -q @*[key=ahner_thermally_2016]* %}
+  {% bibliography -f papers -q @*[key=ahner_directed_2017]* %}
+  {% bibliography -f papers -q @*[key=ahner_self-healing_2017]* %}
+  {% bibliography -f papers -q @*[key=micheel_photophysics_2019]* %}
+  {% bibliography -f papers -q @*[key=micheel_photophysical_2019]* %}
+</div>
