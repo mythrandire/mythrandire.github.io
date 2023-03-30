@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello there! I'm Dr. Mathias Micheel, a postdoctoral scientist currently employed at the Leibniz-Institute of Photonic Technology in Jena, Germany. On this website, you may find more about my research and myself. From time to time, I might even drop random thoughts here - just like it was my personal blog in 2004!
+Hello there! I'm Dr. Mathias Micheel, a Physical Chemist from Germany. On this website, you may find more about my research and myself. From time to time, I might even drop random thoughts here - just like it was my personal blog in 2004!
 
 > *And if in a distant future the supply of coal becomes completely exhausted,
 civilization will not be checked by that, for life and civilization will continue as
