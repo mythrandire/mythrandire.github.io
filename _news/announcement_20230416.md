@@ -1,17 +1,16 @@
 ---
 layout: post
 title: A good thing's worth waiting for - new paper in JCP!
-date: 2023-04-17 15:00:00-0400
+date: 2023-04-17 12:00:00
 inline: false
+tags: photocatalysis nanorods semiconductor spectroscopy
 ---
 
 I am happy to announce that our paper *Lateral charge migration in 1D semiconductor–metal hybrid photocatalytic systems* has been published in Journal of Chemical Physics as part of the *40 Years of Colloidal Nanocrystals in JCP* special issue! You can check it out [here](https://aip.scitation.org/doi/10.1063/5.0144785)!
 
-***
+When I started my postdoc in the group of Maria Wächtler, one of the first measurements I performed was measuring a series of CdSe@CdS nanorods of different lengths. Sounds easy enough to analyze, right? Well, wrong. That was in Winter 2018. Now, Spring 2023, I am happy to show the result of our in-depth analysis!7
 
-When I started my postdoc in the group of Maria Wächtler, one of the first measurements I performed was measuring a series of CdSe@CdS nanorods of different lengths. Sounds easy enough to analyze, right? Well, wrong. That was in Winter 2018. Now, Spring 2023, I am happy to show the result of our in-depth analysis!
-
- {% include figure.html path="assets/img/micheel_lateral_2023.png" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/micheel_lateral_2023.png" class="img-fluid rounded z-depth-1" %}
 
 CdSe@CdS nanorods are great photosensitizers for artificial photosynthesis, if coupled to a catalytic center (e.g. metal nanoparticles). When they are photoexcited, you can basically see three different electron transfer pathways: one very fast crossing from the nanorod to the metal particle (< 1 ps); one slower one (~ 10 ps); and a very slow one (< 100 ps) originating from electrons localized near the CdSe core. But how does each of these steps depend on the nanorod dimensions - and what would be the implications for photocatalysis? This is what we investigated, by looking at nanorods of different length (20 - 60 nm), decorated with Ni nanoparticles. Essentially, we found three important implications:
 
