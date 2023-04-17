@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A good thing's worth waiting for
+title: A good thing's worth waiting for - new paper in JCP!
 date: 2023-04-17 15:00:00-0400
 inline: false
 ---
