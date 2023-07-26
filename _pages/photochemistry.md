@@ -11,7 +11,7 @@ authors:
     affiliations:
       name: Leibniz-Institute of Photonic Technology, Jena, Germany
 toc:
-  - name: THE PHOTOchemiSTRY OF THE FUTURE
+  - name: THE PHOTOCHEMISTRY OF THE FUTURE
   - name: I [Natural Photosynthesis]
   - name: II [Artificial Photosynthesis]
 giscus_comments: true
@@ -29,7 +29,7 @@ In 1912, Italian chemist Giacomo Chiamician published the visionary article *Pho
 
 
 
-# THE PHOTOchemiSTRY OF THE FUTURE
+# THE PHOTOCHEMISTRY OF THE FUTURE
 
 <span style="font-variant:small-caps;">Modern</span> civilization is the daughter of coal for this offers to mankind the solar energy in its most concentrated form: that is in a form in which it has been accumulated in a long series of centuries. Modern man uses it with increasing eagerness and thoughtless prodigality for the conquest of the world and, like the mythical gold of the Rhine<d-footnote>A reference to the <em>Nibelungenlied</em>, an old German tale. The <em>Rheingold</em> was an enormous treasure, which Hagen, advisor to the three Burgundian kings, dumps into Rhine river, its exact location only known to him and the kings. After the kings died in battle, he refused to give the location of where exactly, and after he was beheaded, nobody was left to know its exact location.</d-footnote>, coal is to-day the greatest source of energy and wealth.
 
@@ -114,6 +114,9 @@ isobutylene glycol is produced. But this condensation which may be considered as
  </d-footnote>
 
 {% include figure.html path="/assets/img/photochemistry/photochemistry_2.svg" class="img-fluid mx-auto d-block" %}
+<svg width="400" height="100">
+  <rect width="400" height="100" style="fill:currentColor;stroke-width:10;stroke:green" />
+</svg>
 
 Applying the same photochemical reaction to the mixture of acetone and ethyl alcohol we have analogous products: trime-thylethylene glycol; and along with this isopropyl alcohol and dimethylethylene glycol:
 CH3 CH3
