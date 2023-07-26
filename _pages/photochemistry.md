@@ -115,7 +115,7 @@ isobutylene glycol is produced. But this condensation which may be considered as
 
 {% include figure.html path="/assets/img/photochemistry/photochemistry_2.svg" class="img-fluid mx-auto d-block" %}
 <svg width="100" height="100">
-  <circle cx="50" cy="50" r="40" stroke="currentColor" stroke-width="4" fill="yellow" />
+  <circle cx="50" cy="50" r="40" stroke="yellow" stroke-width="4" fill=currentColor/>
 </svg>
 
 Applying the same photochemical reaction to the mixture of acetone and ethyl alcohol we have analogous products: trime-thylethylene glycol; and along with this isopropyl alcohol and dimethylethylene glycol:
