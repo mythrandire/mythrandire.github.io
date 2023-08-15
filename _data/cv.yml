@@ -12,6 +12,15 @@
   type: time_table
   contents:
     - title: Postdoctoral researcher
+      institution: <a href="https://rptu.de">University of Kaiserslautern-Landau (RPTU)</a>
+      year: 08/2023 – present
+      description:
+        - 'Group of <a href="https://chem.rptu.de/ags/ag-waechtler/seite">Prof. Dr. Maria Wächtler﻿​</a>'
+        - 'Reorganization of <em>Experimental Techniques</em> practical lab course'
+        - 'Synthesis of semiconductor nanoparticles'
+
+
+    - title: Postdoctoral researcher
       institution: <a href="https://www.leibniz-ipht.de">Leibniz-Institute of Photonic Technology</a>
       year: 01/2023 – 02/2023
       description:
