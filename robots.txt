@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://buerviper.github.io/sitemap.xml
+Sitemap: https://mythrandire.github.io/sitemap.xml
