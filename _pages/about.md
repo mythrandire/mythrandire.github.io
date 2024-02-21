@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hello there! I'm Dwiref Oza, a Deep Learning and Computer Vision Engineer based in the USA. On this website, you may find more about me, my work and research experience.   
+Hello there! I'm Dwiref Oza, a Deep Learning and Computer Vision Engineer based in the USA. On this website, you can read about my work and research.   
 
 
 
