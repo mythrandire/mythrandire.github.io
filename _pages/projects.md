@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Until I find time to actually talk about my projects in more detail, enjoy some amazing lorem ipsums here!
 nav: true
