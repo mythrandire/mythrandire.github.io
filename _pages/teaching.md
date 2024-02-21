@@ -16,6 +16,7 @@ nav_order: 5
 | ----------------- | ----------- | ---- |
 | Prof. Zoran Kositc| Fall        | 2020 |
 
+
 ### Responsibilites
 
 * Course assistance through guided examples and teaching hours.
@@ -34,6 +35,7 @@ I do not have permission to expose most of the course material I created for the
 | Course Instructor | Semester(s) | Year |
 | ----------------- | ----------- | ---- |
 | Prof. Zoran Kositc| Fall        | 2020 |
+
 
 ### Responsibilites
 
