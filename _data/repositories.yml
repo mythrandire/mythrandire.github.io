@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mythrandire
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - mythrandire/pyMSLRDecomp
+  - mythrandire/adversarial_tutorial
+  - mythrandire/pycuda-svd
+  - mythrandire/ScSR
+ 
