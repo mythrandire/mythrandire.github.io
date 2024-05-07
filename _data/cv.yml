@@ -13,11 +13,25 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Computer Vision Engineer II (L4)
-      institution: <a href="https://www.path-robotics.com/">Path Robotics</a> | Columbus, OH
-      year: Feb '23 – Feb 2024
+  - title: Lead Engineer
+      institution: <a href="https://gordianrobotics.com//">Gordian</a> | Remote
+      year: Mar '24 – Present
       description:
-        - Worked on Path's Adaptive Welding product - Multi-Pass Adaptive Fill
+        - Leading the research and development of Gordian Sense, a Computer Vision based cloud SaaS capable of analyzing store shelves and delivering insights to improve inventory management.
+        - title: Software Architect
+          contents:
+          - Led the architectureal design and development of **alexander** - a modular framework for deploying computer vision pipelines in the cloud via configurable plugins for multiple deep learning models.
+          - Key design feature include the ability to run plugins asyncrhonously via a Producer/Consumer execution paradigm, and an event-logger with appropriate log levels for critical errors, warnings and routine runtime info.
+          - Defined template plugins for the engineering team to adopt and implement. This allowed for plug-and-play use of cutting edge deep learning models without breaking the pipeline.
+        - title: Engineering Team Lead
+         contents:
+          - Established sound software practices by encouraging the engineering team to strive for full test coverage, clean code and detail-oriented PR etiquette. 
+          - Led and managed a team of computer vision, MLOps and backend engineers.
+          - Brought in transparency and boosted pace of development by adopting scrum ceremonies - daily standups, task planning, reviews and retros.
+          - Led regular code reviews to ensure maintainability and reproducibility
+          
+        - title:  
+          
         - Rapid prototyping and deployment of feature requests, unlocking welding patterns and stability improvements.
         - Successfully led several RaaS (Robotics-as-a-Service) deployments of <a href="https://www.path-robotics.com/robotic-welding-systems/the-robots/aw3/">autonomous welding cells</a> worth millions in revenue.
         - title: Model Lifecycle Management - data engineering, data labeling, data science, MLOps, deployment
@@ -25,6 +39,24 @@
           - Conceptualized machine learning model to capture and generalize human welder preferences for multi-pass welding. 
           - Handled data collection, hosting, data labeling, cleanup, and setup ETL (Extract/Transform/Load) pipeline.
           - model architecture selection, training, A/B testing, field trial and alpha deployment
+          - Created a proof-of-concept for model serving and tracking with MLFlow and Databricks
+          - Deployed model to cull search space for a uniform grid search algorithm. Translated to 60% execution time reduction for weld optimization.
+        - title: Skills & Tools
+          contents:
+          - Python, C++, Bash, PyTorch, AWS CLI, EC2, S3, Databricks, Open3D, Shapely, Numpy/Scipy, sk-learn, PCL, MLFlow
+          - Git, Agile, Scrum, Unit Testing, CI/CD
+    - title: Computer Vision Engineer II (L4)
+      institution: <a href="https://www.path-robotics.com/">Path Robotics</a> | Columbus, OH
+      year: Feb '23 – Feb 2024
+      description:
+        - Co-developed V2 of Path's Adaptive Welding product - Multi-Pass Adaptive Fill
+        - Rapid prototyping and deployment of feature requests, unlocking welding patterns and stability improvements.
+        - Successfully led several RaaS (Robotics-as-a-Service) deployments of <a href="https://www.path-robotics.com/robotic-welding-systems/the-robots/aw3/">autonomous welding cells</a> worth millions in revenue.
+        - title: Model Lifecycle Management - data engineering, data labeling, data science, MLOps, deployment
+          contents:
+          - Conceptualized machine learning model to capture and generalize human welder preferences for multi-pass welding. 
+          - Handled data collection, hosting, data labeling, cleanup, and setup ETL (Extract/Transform/Load) pipeline.
+          - Model architecture selection, training, A/B testing, field trial and alpha deployment
           - Created a proof-of-concept for model serving and tracking with MLFlow and Databricks
           - Deployed model to cull search space for a uniform grid search algorithm. Translated to 60% execution time reduction for weld optimization.
         - title: Skills & Tools
@@ -45,14 +77,6 @@
           contents:
           - Wrote an algorithm designed to find the closest interaction point for 2 near-orthogonal non-planar surfaces. (2D cross-section of a mesh).
           - Spearheaded a major refactor of Path's adaptive welding software stack. This transitioned the software from pre-release to true production-ready status, improving maintainability and stability. This kept the release stable in production until version 2 was developed.
-        - Successfully led several RaaS (Robotics-as-a-Service) deployments of <a href="https://www.path-robotics.com/robotic-welding-systems/the-robots/aw3/">autonomous welding cells</a> worth millions in revenue.
-        - title: Model Lifecycle Management - data engineering, data labeling, data science, MLOps, deployment
-          contents:
-          - Conceptualized machine learning model to capture and generalize human welder preferences for multi-pass welding. 
-          - Handled data collection, hosting, data labeling, cleanup, and setup ETL (Extract/Transform/Load) pipeline.
-          - model architecture selection, training, A/B testing, field trial and alpha deployment
-          - Created a proof-of-concept for model serving and tracking with MLFlow and Databricks
-          - Deployed model to cull search space for a uniform grid search algorithm. Translated to 60% execution time reduction for weld optimization.
         - title: Skills & Tools
           contents:
           - Python, C++, Bash, Open3D, Shapely, Numpy/Scipy, sk-learn, PCL
