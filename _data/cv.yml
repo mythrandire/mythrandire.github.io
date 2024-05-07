@@ -66,14 +66,6 @@
           contents:
           - Wrote an algorithm designed to find the closest interaction point for 2 near-orthogonal non-planar surfaces. (2D cross-section of a mesh).
           - Spearheaded a major refactor of Path's adaptive welding software stack. This transitioned the software from pre-release to true production-ready status, improving maintainability and stability. This kept the release stable in production until version 2 was developed.
-        - Successfully led several RaaS (Robotics-as-a-Service) deployments of <a href="https://www.path-robotics.com/robotic-welding-systems/the-robots/aw3/">autonomous welding cells</a> worth millions in revenue.
-        - title: Model Lifecycle Management - data engineering, data labeling, data science, MLOps, deployment
-          contents:
-          - Conceptualized machine learning model to capture and generalize human welder preferences for multi-pass welding. 
-          - Handled data collection, hosting, data labeling, cleanup, and setup ETL (Extract/Transform/Load) pipeline.
-          - model architecture selection, training, A/B testing, field trial and alpha deployment
-          - Created a proof-of-concept for model serving and tracking with MLFlow and Databricks
-          - Deployed model to cull search space for a uniform grid search algorithm. Translated to 60% execution time reduction for weld optimization.
         - title: Skills & Tools
           contents:
           - Python, C++, Bash, Open3D, Shapely, Numpy/Scipy, sk-learn, PCL
