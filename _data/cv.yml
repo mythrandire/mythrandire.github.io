@@ -8,18 +8,18 @@
     - name: E-mail(s)
       value: mithrandir.dso@gmail.com, dwiref.oza@columbia.edu
     - name: Summary
-      value: Deep Learning Engineer with a fondness for Robots and Computer Vision. Almost broke production once. (And then I didn't.)
+      value: "Deep Learning Engineer with a fondness for Robots and Computer Vision. Almost broke production once. (And then I didn't.)"
 
 - title: Experience
   type: time_table
   contents:
   - title: Lead Engineer
-      institution: <a href="https://gordianrobotics.com//">Gordian</a> | Remote
+      institution: <a href="https://gordianrobotics.com/">Gordian</a> | Remote
       year: Mar '24 – Present
       description:
-        - Leading the research and development of Gordian Sense, a Computer Vision based cloud SaaS capable of analyzing store shelves and delivering insights to improve inventory management.
         - title: Software Architect
           contents:
+          - Leading the research and development of Gordian Sense, a Computer Vision based cloud SaaS capable of analyzing store shelves and delivering insights to improve inventory management.
           - Led the architectureal design and development of **alexander** - a modular framework for deploying computer vision pipelines in the cloud via configurable plugins for multiple deep learning models.
           - Key design feature include the ability to run plugins asyncrhonously via a Producer/Consumer execution paradigm, and an event-logger with appropriate log levels for critical errors, warnings and routine runtime info.
           - Defined template plugins for the engineering team to adopt and implement. This allowed for plug-and-play use of cutting edge deep learning models without breaking the pipeline.
